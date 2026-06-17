@@ -43,5 +43,4 @@
 
 ## 🏆 Achievements & Interests
 - Actively studying python flask application.
-- Learning stock market technical analysis.
 - Team player experienced in collaborative academic projects (e.g., Team-7 project presentation lead).
